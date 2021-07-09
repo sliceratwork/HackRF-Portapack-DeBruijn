@@ -7,6 +7,14 @@ the required files to perform the DeBruijn attack from your HackRF-Portapack
 I am in NO WAY liable for any actions executed by means of the contents within this
 repository. PLEASE use responsibly.*
 
+*If unfamiliar with the debruijn attack: this attack
+transmits a single signal that contains every possible
+combination of a specific bit-length in just seconds
+by overlapping binary sequences*
+
+*This attack will NOT work on devices that utilize
+rollling codes*
+
 ## Prerequisites:
 
 ### Hardware:
