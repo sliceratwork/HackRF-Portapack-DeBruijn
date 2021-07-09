@@ -33,3 +33,6 @@ These files are labeled according to what type of key/remote
 they are calculated for based on bit-length
 
 Have fun, and *USE RESPONSIBLY*
+
+*If you'd like to use trinary sequences as well, click [here](https://drive.google.com/drive/folders/182GeXBpSp3klfKB5Phci-zFITLylrn1W?usp=sharing)
+for the full version*
